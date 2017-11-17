@@ -1,4 +1,6 @@
-var playlist = { cars: "auto" };
+var playlist = { cars: "auto",
+                 artistName: 
+        };
 
 function updatePlaylist(playlist, artistName, songTitle) {
 
@@ -10,4 +12,5 @@ function removeFromPlaylist(playlist, artistName) {
     delete playlist.artistName
 
   //  playlist;
+
 }
