@@ -2,8 +2,8 @@ var playlist = { cars: "auto" };
 
 function updatePlaylist(playlist, artistName, songTitle) {
 
-var  playlist.artistName = songTitle
-  playlist;
+playlist.artistName = songTitle
+
 }
 
 function removeFromPlaylist(playlist, artistName) {
